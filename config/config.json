@@ -1,0 +1,21 @@
+{
+  "traceActivate":true,
+  "debugActivate":false,
+  "processus" : [
+    {
+      "id": 1,
+      "address": "localhost",
+      "port": 1234
+    },
+    {
+      "id": 2,
+      "address": "localhost",
+      "port": 1235
+    },
+    {
+      "id": 3,
+      "address": "localhost",
+      "port": 1236
+    }
+  ]
+}
